@@ -2,6 +2,8 @@
 
 Repo to do the project.
 
+capire che quantità sono utili per capire il "fate del bH"
+
 TODO entro martedì:
 - Marghe: capire cosa è il random forest.
 - Gigi: estendere l'algoritmo qui sotto a tutti i cluster e metallicità, capire come i miei amici possono giocare con me
