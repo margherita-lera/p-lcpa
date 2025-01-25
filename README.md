@@ -2,7 +2,7 @@
 
 Repo to do the project.
 
-Come interagire con la repo: [here]{interact.md}
+Come interagire con la repo: [here](interact.md).
 Direi che ognuno fa un branch col proprio nome. E quando siamo sicuri mergiamo sul main branch
 
 capire che quantità sono utili per capire il "fate del bH"
